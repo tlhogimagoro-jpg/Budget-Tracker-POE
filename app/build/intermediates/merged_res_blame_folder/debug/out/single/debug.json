@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_activity_report.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\drawable_photo_placeholder_bg.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\drawable\\photo_placeholder_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_activity_add_expense.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_activity_goals.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_goals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_activity_category.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_activity_expense_list.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_expense_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\drawable_circle_shape.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "com.budgettracker.app-merged_res-54:/layout_item_category.xml.flat",
+        "source": "com.budgettracker.app-main-56:/layout/item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_item_expense.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_activity_add_category.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_add_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_item_category_total.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\item_category_total.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-merged_res-54:\\layout_activity_expense_detail.xml.flat",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_expense_detail.xml"
+    }
+]

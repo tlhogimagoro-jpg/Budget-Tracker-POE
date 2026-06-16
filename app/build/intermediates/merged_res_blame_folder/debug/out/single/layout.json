@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\activity_add_expense.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\activity_goals.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_goals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\item_category.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\item_expense.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\item_category_total.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\item_category_total.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\activity_report.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\activity_category.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\activity_expense_list.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_expense_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\activity_add_category.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_add_category.xml"
+    },
+    {
+        "merged": "com.budgettracker.app-mergeDebugResources-53:/layout/item_category.xml",
+        "source": "com.budgettracker.app-main-56:/layout/item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\activity_expense_detail.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_expense_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-mergeDebugResources-53:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Student\\.gradle\\daemon\\8.4\\com.budgettracker.app-main-56:\\layout\\activity_login.xml"
+    }
+]

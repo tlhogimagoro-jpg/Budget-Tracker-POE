@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FFC107</color>
+    <color name="background">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="error">#B00020</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_track">#4CAF50</color>
+    <color name="over_budget">#F44336</color>
+    <color name="premium_gold">#FFD700</color>
+    <color name="primary">#1B5E20</color>
+    <color name="primary_dark">#003300</color>
+    <color name="primary_light">#4CAF50</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="theme_sunny">#FFF9C4</color>
+    <color name="theme_sunset">#FFE0B2</color>
+    <color name="under_min">#FF9800</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_category">Add Category</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="amount">Amount (R)</string>
+    <string name="app_name">Budget Tracker</string>
+    <string name="cancel">Cancel</string>
+    <string name="categories">Categories</string>
+    <string name="category">Category</string>
+    <string name="category_name">Category Name</string>
+    <string name="choose_gallery">Choose from Gallery</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="date">Date</string>
+    <string name="delete">Delete</string>
+    <string name="description">Description</string>
+    <string name="end_time">End Time</string>
+    <string name="filter">Filter</string>
+    <string name="from_date">From Date</string>
+    <string name="login">Login</string>
+    <string name="logout">Log Out</string>
+    <string name="max_goal">Maximum Goal (R)</string>
+    <string name="min_goal">Minimum Goal (R)</string>
+    <string name="monthly_goals">Monthly Goals</string>
+    <string name="no_categories">No categories yet. Add one first!</string>
+    <string name="no_expenses">No expenses found for this period.</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="reports">Reports</string>
+    <string name="save">Save</string>
+    <string name="start_time">Start Time</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="to_date">To Date</string>
+    <string name="total_spent">Total Spent</string>
+    <string name="username">Username</string>
+    <string name="view_expenses">View Expenses</string>
+    <style name="Theme.BudgetTracker" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+
+        
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+        <item name="android:editTextColor">@color/text_primary</item>
+
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+    <style name="Theme.BudgetTracker.NoActionBar" parent="Theme.BudgetTracker">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

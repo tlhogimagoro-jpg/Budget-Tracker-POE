@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App custom palette -->
+    <color name="primary">#1B5E20</color>
+    <color name="primary_dark">#003300</color>
+    <color name="primary_light">#4CAF50</color>
+    <color name="accent">#FFC107</color>
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#BDBDBD</color>
+
+    <!-- Status Colors -->
+    <color name="over_budget">#F44336</color>
+    <color name="under_min">#FF9800</color>
+    <color name="on_track">#4CAF50</color>
+
+    <!-- Contextual Nudges -->
+    <color name="theme_sunny">#FFF9C4</color>    <!-- Soft Sunny Yellow -->
+    <color name="theme_sunset">#FFE0B2</color>   <!-- Amber Sunset Warning -->
+    <color name="premium_gold">#FFD700</color>    <!-- Gold for premium assets -->
+</resources>

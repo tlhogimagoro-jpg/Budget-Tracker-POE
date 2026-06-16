@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Defines the paths that FileProvider is allowed to share.
+     Used when launching the camera so we can pass a content:// URI. -->
+<paths>
+    <external-files-path
+        name="expense_photos"
+        path="Pictures/" />
+    <files-path
+        name="expense_photos_internal"
+        path="Pictures/" />
+</paths>
